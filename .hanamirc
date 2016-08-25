@@ -1,0 +1,4 @@
+project=rex_scheduler
+architecture=container
+test=minitest
+template=erb
